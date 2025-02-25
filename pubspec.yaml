@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  dio: ^5.3.3
+  dio: any
   darty_json_safe: ^1.0.2
   path: ^1.8.3
   path_provider: ^2.1.1
@@ -22,7 +22,7 @@ dependencies:
   shorebird_code_push: ^1.1.3
   pubspec_manager: ^1.0.0-alpha.11
   process_run: ^0.13.2
-  analyzer: ^6.3.0
+  analyzer: any
   crypto: ^3.0.3
 
 dev_dependencies:
